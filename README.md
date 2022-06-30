@@ -7,6 +7,7 @@ We have to write a program which automotized cinema's work. It have to a menu -
 2. Buy a ticket
 3. Statistics
 0. Exit
+
 If we choose "Show the seats" - program to show us the picture with already buyed seats and free seats.
 If we choose "Buy a ticket" - we have to enter the numbers of row and seat, which we want a buy.
 Item Buy a ticket shouldn't allow a user to buy a ticket that has already been purchased.
