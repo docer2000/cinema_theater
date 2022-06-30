@@ -1,4 +1,7 @@
 # cinema_theater
+
+Program have own methods, arrays, case-switch branches and exceptions.
+
 program which automotized cinema's work. Full description in the file
 
 Description.
@@ -18,5 +21,5 @@ The number of purchased tickets represented as a percentage. Percentages should 
 Current income;
 The total income that shows how much money the theatre will get if all the tickets are sold.
 
-Program have own methods, arrays, case-switch branches and exceptions.
+
 
